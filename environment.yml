@@ -1,0 +1,15 @@
+name: insar_poroelastic
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - geopandas
+  - verde
+  - scikit-learn
+  - tqdm
+  - rasterio
