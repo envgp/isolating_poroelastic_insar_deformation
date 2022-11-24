@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
-data/input_data/
-data/output_data/
+data/input_data/insar_data.nc
+data/input_data/swe_total.csv
+data/output_data/insar_cluster.nc
+data/output_data/insar_loading_poroelastic_data.nc
